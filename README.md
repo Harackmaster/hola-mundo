@@ -1,3 +1,3 @@
 # hola-mundo
-Repositorio de prueba editado
+Repositorio de prueba
 
